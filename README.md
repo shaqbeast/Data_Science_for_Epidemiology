@@ -11,3 +11,5 @@ All homeworks contain a file called "HW#_Document_Answers" which contain the hom
 
 The final project folder contains several GRU models I implemented (had to try different models because my PCC was not high enough). 
 synaptic_GRU.py was the final iteration of the model I used to submit for the final project.
+
+A google site for our project: https://sites.google.com/d/1ouFTIDtj_4jNSivL6yC4yPxPt1u5Mp2W/p/1eRo6nkECAPnIcCJ1fUryKc2gZ3XdzaAH/edit?pli=1 
